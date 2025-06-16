@@ -1,118 +1,237 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
-                       Version 3,  JANUARY 2007-2024
-**Copyright (C) 2007  <Apetree1001@email.phoenix.edu>
- Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document,
- but changing it is not allowed.
- This file is licensed under the GPL v3
- at the discretion of Linus "ref line: 685"**
-                            Preamble
+
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3,  
+JANUARY 2007-2024
+
+     ** Copyright (C) 2007 "ref  
+       line: 685 **
+
+<Apetree1001@email.phoenix.edu>
+ Free Software Foundation,
+Inc.<https://fsf.org/>Everyone is permitted
+to copy and distribute
+verbatim copies of this
+license document,
+ but changing it is 
+# not allowed.
+This file is
+licensed 
+under the 
+        GPL v3 at the 
+discretion of Linus                
+ 
+            #Preamble
   The GNU Affero General Public License 
- is a free, copyleft license for
-software and other kinds of works, specifically
-designed to ensure
-cooperation with the community in the case of network server software.
+ is a free,
+      copyleft license for software and other kinds
+      of works, specifically
+designed to 
+ensure cooperation with the
+community in the 
+case of 
+network server software.
+  The licenses
+for most software,
+and other practical
+works are 
+designed to take
+away your freedom to
+share and change 
+works. By 
+contrast,our General
+Public Licenses are
+intended to guarantee your 
+freedom to
+share and
+change all versions of 
+a program-
+   
+    # to make sure it remains free 
+    software for all its users.
+When we speak of 
+free software, we are 
+referring to freedom, 
 
-  The licenses for most software and other practical works are designed
-to take away your freedom to share and change the works.  By contrast,
-our General Public Licenses are intended to guarantee your freedom to
-share and change all versions of a program--to make sure it remains free
-software for all its users.
-
-  When we speak of free software, we are referring to freedom, not
-price.  Our General Public Licenses are designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-them if you wish), that you receive source code or can get it if you
-want it, that you can change the software or use pieces of it in new
-free programs, and that you know you can do these things.
-
-  Developers that use our General Public Licenses protect your rights
-with two steps: (1) assert copyright on the software, and (2) offer
-you this License which gives you legal permission to copy, distribute
-and/or modify the software.
-
-  A secondary benefit of defending all users' freedom is that
-improvements made in alternate versions of the program, if they
-receive widespread use, become available for other developers to
-incorporate.  Many developers of free software are heartened and
-encouraged by the resulting cooperation.  However, in the case of
-software used on network servers, this result may fail to come about.
-The GNU General Public License permits making a modified version and
-letting the public access it on a server without ever releasing its
-source code to the public.
-
-  The GNU Affero General Public License is designed specifically to
-ensure that, in such cases, the modified source code becomes available
-to the community.  It requires the operator of a network server to
-provide the source code of the modified version running there to the
-users of that server.  Therefore, public use of a modified version, on
-a publicly accessible server, gives the public access to the source
+     not.price. 
+     
+Our General Public Licenses 
+are designed to make
+sure that you
+have the freedom 
+to distribute copies 
+of free software 
+     
+      (and charge for them 
+      if you   
+       wish),
+       
+that you receive source code 
+or can get it if you
+want it, 
+that you can change the software 
+or use pieces of it in new
+free programs, and that
+you know you
+can do these things.
+  Developers that use our General Public Licenses
+  protect your rights
+with two steps:
+     
+       (1) assert copyright
+       on the software, and 
+       (2) offer you this
+       License which gives you 
+       legal permission to
+       copy, distribute 
+       and/or modify the software.
+  A secondary benefit
+  of defending all users' 
+  freedom is that improvements
+  made in alternate versions 
+  of the program, if they receive widespread use,
+  become available for other developers to
+incorporate.  
+Many developers of
+free software are heartened
+and encouraged by the resulting cooperation.
+However, in the case of
+software used 
+on network servers, 
+this result may fail to come
+about.
+The GNU General Public License permits making
+a modified version  and
+letting the public access 
+it on a server without ever releasing the  source code
+to the public.
+  The GNU Affero General Public License is designed
+  specifically to
+ensure that, 
+in such cases, the modified
+source code becomes available
+to the community. 
+It requires the operator 
+of a network server to
+provide the
+source code of the modified 
+version
+running there to the users of
+that server.
+Therefore, public 
+use of a modified version, 
+on
+a publicly accessible server,
+gives the public access 
+to the source
 code of the modified version.
-
-  An older license, called the Affero General Public License and
-published by Affero, was designed to accomplish similar goals.  This is
-a different license, not a version of the Affero GPL, but Affero has
-released a new version of the Affero GPL which permits relicensing under
+  An older license, 
+  called the
+  Affero General Public License
+  and
+published by Affero, 
+was designed to accomplish 
+similar goals. 
+This is
+a different license, 
+not a version of the Affero GPL, 
+but Affero has
+released a 
+new version of the Affero GPL 
+lwhich permits relicensing
+under
 this license.
-
-  The precise terms and conditions for copying, distribution and
-modification follow.
-
-                       TERMS AND CONDITIONS
-
-  0. Definitions.
-
+         
+	 The precise terms and conditions for copying, distribution and modification follow.
+     
+      TERMS AND CONDITIONS
+  # Definition
   "This License" refers to version 3 of the GNU Affero General Public License.
+ 
+      "Copyright" also means copyright-like laws that apply to other kinds of works, 
+      such as semiconductor masks.
 
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
+##"The Program"
+    refers to
+ any copyrightable work 
+licensed under this
+License. 
+ Each licensee is addressed as "you".  
+"Licensees" and "recipients"
+ may be individuals 
+or organizations.
+  To "modify" a work means
+ to copy from or adapt
+ all or part of the work
+in a fashion 
+requiring copyright permission, other than 
+the making of an
+exact copy. 
+ The resulting work is called a "modified version" 
+of the
+earlier work or 
+a work "based on" the earlier work.
+  A "covered work" 
+means either the 
+unmodified Program or
+ a work based on the Program.
+  To "propagate" a work 
+means to do anything 
+with it that, 
+without permission, 
+would make you directly
+ or secondarily 
+liable for
+infringement 
+under applicable 
 
-  "The Program" refers to any copyrightable work licensed under this
-License.  Each licensee is addressed as "you".  "Licensees" and
-"recipients" may be individuals or organizations.
-
-  To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
-
-  A "covered work" means either the unmodified Program or a work based
-on the Program.
-
-  To "propagate" a work means to do anything with it that, without
-permission, would make you directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
-
-  To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
-
-  An interactive user interface displays "Appropriate Legal Notices"
-to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
-work under this License, and how to view a copy of this License.  If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
-
-  1. Source Code.
-
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
-form of a work.
-
-  A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
-
-  The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal form of
+copyright law, 
+except executing it on a computer 
+or modifying
+ a private copy.  
+Propagation
+ includes copying,
+distribution 
+with or without modification, 
+making available to the
+public, 
+and in some countries 
+other activities as well.
+  To "convey" a work means
+ any kind of propagation 
+that enables other parties
+ to make or receive copies. 
+ Mere interaction 
+with a user through
+a computer network,
+ with no transfer of a copy, 
+is not conveying.
+  An interactive user 
+interface displays
+ "Appropriate 
+Legal Notices" to the extent 
+that it 
+includes a convenient and prominently 
+visible feature that  
+         
+     (1) displays an appropriate copyright notice, and
+          (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work 
+under this License, 
+and how to view a copy 
+of this License. 
+If the interface 
+presents a
+list of user 
+commands or options, 
+such as a menu,
+a prominent item
+in the list meets 
+this criterion. 
+         
+	 1. Source Code.
+      The "source code" for a work means the preferred form of the work for making modifications to it.  "Object code" means any non-source
+      form of a work.
+     A "Standard Interface" means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.
+     The "System Libraries" of an executable work include anything, other than the work as a whole, that (a) is included in the normal form of
 packaging a Major Component, but which is not part of that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
@@ -157,24 +276,35 @@ convey, without conditions so long as your license otherwise remains
 in force.  You may convey covered works to others for the sole purpose
 of having them make modifications exclusively for you, or provide you
 with facilities for running those works, provided that you comply with
-the terms of this License in conveying all material for which you do
-not control copyright.  Those thus making or running the covered works
-for you must do so exclusively on your behalf, under your direction
-and control, on terms that prohibit them from making any copies of
-your copyrighted material outside their relationship with you.
-
-  Conveying under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 10
-makes it unnecessary.
-
-  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
-
-  No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
+the terms of this License in conveying all material for which you do not control copyright.  
+Those thus making or running the covered works
+for you 
+must do so exclusively on your behalf, under your 
+direction
+and control, 
+on terms that 
+prohibit them from
+making any copies of
+your copyrighted
+material outside 
+their relationship with you.
+  Conveying under any other circumstances is 
+  permitted solely under
+the conditions stated below.  Sublicensing is
+not allowed; section 10 makes 
+it unnecessary. 
+   
+    3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+No covered work shall
+be deemed part of
+an effective technological
+measure under
+any applicable
+law fulfilling 
+obligations under article
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
 similar laws prohibiting or restricting circumvention of such
 measures.
-
   When you convey a covered work, you waive any legal power to forbid
 circumvention of technological measures to the extent such circumvention
 is effected by exercising rights under this License with respect to
@@ -523,11 +653,9 @@ conveyed by you (or copies made from those copies), or (b) primarily
 for and in connection with specific products or compilations that
 contain the covered work, unless you entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.
-
   Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.
-
   12. No Surrender of Others' Freedom.
 
   If conditions are imposed on you (whether by court order, agreement or
@@ -539,9 +667,7 @@ not convey it at all.  For example, if you agree to terms that obligate you
 to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
-
   13. Remote Network Interaction; Use with the GNU General Public License.
-
   Notwithstanding any other provision of this License, if you modify the
 Program, your modified version must prominently offer all users
 interacting with it remotely through a computer network (if your version
